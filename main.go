@@ -7,7 +7,7 @@ import (
 
 func main() {
 
-	circumference()
+	area_of_a_rectangle()
 
 }
 
